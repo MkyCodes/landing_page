@@ -1,2 +1,9 @@
-# landing_page
-this is the landing page project
+# The General Text
+this is the landing page project readme
+
+## the languages used:
+- HTML
+- CSS
+- JAVASCRIPT
+
+
